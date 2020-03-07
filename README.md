@@ -7,7 +7,7 @@
 ```bash
 $ npm i 
 ```
-# To run the project type the following command prompt
+# To run the project type the following command in command prompt
 ### Don't worry, nodemon script is already configured
 ```bash
 npm start
