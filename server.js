@@ -8,7 +8,6 @@ const config = require('./config')
 const morgan  = require('morgan')
 
 app.use(morgan('dev'))
-app.use(bodyParser.json())
 app.use(cors())
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({
