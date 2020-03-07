@@ -13,7 +13,7 @@
     "passport",
     "express"
   ],
-  "author": "vicenteyah",
+  "authors": "vicenteyah , Sara Melina",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
